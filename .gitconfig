@@ -20,6 +20,7 @@
     b = "branch -q"
     c = "commit -q"
     cl = "clone -q"
-    l = "pull -q"
+    pl = "pull -q"
+    l = "log"
     p = "push -q"
     s = "status"
