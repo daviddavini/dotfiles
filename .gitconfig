@@ -1,0 +1,25 @@
+[user]
+	email = hello@daviddavini.com
+	name = David Davini
+[status]
+	short = true
+[init]
+	defaultBranch = main
+[diff]
+	tool = vimdiff
+[merge]
+    tool = vimdiff
+[difftool]
+	prompt = false
+[color]
+	ui = never
+[advice]
+	detachedHead = false
+[alias]
+    a = "add"
+    b = "branch -q"
+    c = "commit -q"
+    cl = "clone -q"
+    l = "pull -q"
+    p = "push -q"
+    s = "status"
