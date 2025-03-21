@@ -1,8 +1,6 @@
 [user]
 	email = hello@daviddavini.com
 	name = David Davini
-[status]
-	short = true
 [init]
 	defaultBranch = main
 [diff]
@@ -15,6 +13,7 @@
 	ui = never
 [advice]
 	detachedHead = false
+	statusHints = false
 [alias]
     a = "add"
     b = "branch -q"
